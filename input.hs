@@ -49,7 +49,7 @@ insertQuestionnaire :: Questionnaire -> [Questionnaire] -> [Questionnaire]
 insertQuestionnaire q qs = do
   let i = findIndex (((name q) ==) . name) qs
   case i of
-    Just index -> take (index - 1) qs ++ [q] ++ drop (index + 1) qs
+    Just index -> take index qs ++ [q] ++ drop (index + 1) qs
     Nothing -> q : qs
 
 mergeQuestionnaires :: [Questionnaire] -> [Questionnaire] -> [Questionnaire]
@@ -69,5 +69,5 @@ main = do
       }
   }
   questionnaires <- loop
-  encodeFile "questionnaires.json" (mergeQuestionnaires questionnaires initialQuestionnaires)
+  encodeFile "questionnaires.json" (mergeQuestionnaires initialQuestionnaires questionnaires)
   putStrLn "Thank you! :)"
