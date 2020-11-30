@@ -344,100 +344,89 @@
       },
       {
         "items": [
-          "Chocolate"
+          "Dark chocolate"
         ],
-        "header": "Favorite Candy"
+        "header": "Favorite Candy &amp; Sweets"
       },
       {
         "items": [
-          "Trail Mix"
+          "Chocolate"
         ],
         "header": "Favorite Salty Snacks"
       },
       {
         "items": [
-          "Mary",
-          "Anime",
-          "Tools"
+          "Work",
+          "Star Wars",
+          "Harry Potter"
         ],
         "header": "Your Obsession"
       },
       {
         "items": [
-          "Kung Fu",
-          "Sci-Fi"
+          "Star Wars",
+          "Harry Potter"
         ],
         "header": "Favorite Movies"
       },
       {
         "items": [
-          "Harry Potter",
-          "Star Wars",
           "Jordan Peterson"
         ],
         "header": "Book / Magazine Wishlist"
       },
       {
         "items": [
-          "Paper",
-          "Pens"
+          "Pencil"
         ],
         "header": "Favorite Desk Items"
       },
       {
         "items": [
-          "Wheels"
+          "Parts / Tires"
         ],
         "header": "Favorite Car Accessories"
       },
       {
         "items": [
-          "Can Opener"
+          "Stuff"
         ],
         "header": "Kitchen Gadget Wishlist"
       },
       {
         "items": [
-          "Toothbrush"
+          "Soap"
         ],
         "header": "Favorite Personal Care Items"
       },
       {
         "items": [
           "Black",
-          "Purple",
-          "Green"
+          "Green",
+          "Blue"
         ],
         "header": "Favorite Colors"
       },
       {
         "items": [
-          "Red Lobster",
-          "Olive Garden"
+          "Food"
         ],
         "header": "Favorite Restaurants"
       },
       {
         "items": [
-          "Treats",
-          "Puppy Pads",
-          "Leads"
+          "Snacks"
         ],
         "header": "Ideas for Pets"
       },
       {
-        "items": [],
+        "items": [
+          "Stuff"
+        ],
         "header": "Clothing Sizes"
       },
       {
-        "items": [
-          "Tools",
-          "2 Foot Level",
-          "4 Foot Level",
-          "Framing Square",
-          "25 Foot Extension Cord",
-          "35 Foot Measuring Tape"
-        ],
+        "items": [],
         "header": "Other Wishes"
       }
     ]
