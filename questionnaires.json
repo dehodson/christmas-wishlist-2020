@@ -550,108 +550,115 @@
     "sections": [
       {
         "items": [
-          "Coffee",
-          "Tea",
-          "Mixed Drinks"
+          "Hot teas (any)",
+          "La Croix",
+          "Diet Dr. Pepper",
+          "Eggnog (or soy nog)",
+          "Wine (Oliver winery)"
         ],
         "header": "Favorite Drinks"
       },
       {
         "items": [
-          "M&Ms",
+          "Dark chocolate",
           "Reese's"
         ],
-        "header": "Favorite Candy"
+        "header": "Favorite Candy &amp; Sweets"
       },
       {
         "items": [
-          "Cashews"
+          "Kettle chips",
+          "Nuts",
+          "Cheese"
         ],
         "header": "Favorite Salty Snacks"
       },
       {
         "items": [
-          "Board Games",
-          "Videogames",
+          "Video games",
           "Anime",
-          "Healthy, Natural Foods"
+          "Dogs",
+          "Nature",
+          "Healthy eating"
         ],
         "header": "Your Obsession"
       },
       {
-        "items": [
-          "Disney Movies",
-          "Comedies"
-        ],
+        "items": [],
         "header": "Favorite Movies"
       },
       {
         "items": [
-          "Anything Psychology or Fantasy"
+          "Jordan Peterson (not 12 Rules for Life)",
+          "National Geographic magazine",
+          "Modern Dog magazine"
         ],
         "header": "Book / Magazine Wishlist"
       },
       {
         "items": [
-          "Writing Utensils",
-          "Organization"
+          "Writing utensils",
+          "Whiteboard markers"
         ],
         "header": "Favorite Desk Items"
       },
       {
         "items": [
-          "Any Car Air Freshener"
+          "Cleaning wipes"
         ],
         "header": "Favorite Car Accessories"
       },
       {
         "items": [
-          "Anything and Everything!"
+          "Chopsticks",
+          "Wine opener",
+          "Spice rack"
         ],
         "header": "Kitchen Gadget Wishlist"
       },
       {
         "items": [
-          "Cocoa Butter",
-          "Any Natural Products"
+          "Essential oils",
+          "Epsom salt",
+          "Warm, fuzzy socks",
+          "Hair scrunchies"
         ],
         "header": "Favorite Personal Care Items"
       },
       {
         "items": [
-          "Smokey Grey",
-          "Deep Purples"
+          "Black",
+          "Grey",
+          "Any deep colors"
         ],
         "header": "Favorite Colors"
       },
       {
         "items": [
-          "Anything Other Than Fast Food"
+          "Panera Bread",
+          "Red Lobster",
+          "Ninja of Japan (any Japanese / sushi)"
         ],
         "header": "Favorite Restaurants"
       },
       {
         "items": [
-          "Any Toys",
-          "Leads",
-          "Puppy Things"
+          "Any and all toys or chews (they're tough chewers!)",
+          "Food toppers (human grade)",
+          "chewy.com gift card"
         ],
         "header": "Ideas for Pets"
       },
       {
         "items": [
-          "Shirt - M-L (I like oversized tops)",
-          "Pants - 8",
-          "Shoe - 7 1/2 - 8"
+          "Shirt - Medium / Large",
+          "Pants - 6",
+          "Shoe - 7 1/2"
         ],
         "header": "Clothing Sizes"
       },
       {
-        "items": [
-          "Exercise Equipment / Accessories",
-          "Blankets",
-          "Pillows"
-        ],
+        "items": [],
         "header": "Other Wishes"
       }
     ]
