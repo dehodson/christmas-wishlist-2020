@@ -55,5 +55,5 @@ main = do
   header <- readFile "partials/head.html"
   footer <- readFile "partials/foot.html"
   let pageBuilder = buildPage header footer
-  writeFile "index.html" (pageBuilder (genIndex (sort $ getNames questionnaires)))
+  writeFile "index.html" (pageBuilder (genIndex (reverse . sort $ getNames questionnaires)))
   mapM_ (makeWishFile pageBuilder) questionnaires
