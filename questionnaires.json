@@ -110,107 +110,132 @@
       {
         "items": [
           "Diet Coke",
-          "Seltzer",
-          "La Croix",
-          "Chai Tea",
-          "Coffee"
+          "Caffeine free Diet Coke",
+          "Seltzer - lemon, grapefruit",
+          "Craft soda - diet"
         ],
         "header": "Favorite Drinks"
       },
       {
         "items": [
-          "Lindt Dark Chocolate with Chili",
-          "Vegan Chocolate"
+          "Justin’s dark chocolate PB cups",
+          "70% cacao Lindt chocolate bar",
+          "Cocomels sea salt coconut milk caramels",
+          "Nutter Butter cookies",
+          "Cracker Jack",
+          "Cleo’s pb cups"
         ],
-        "header": "Favorite Candy"
+        "header": "Favorite Candy &amp; Sweets"
       },
       {
         "items": [
-          "Pretzels",
-          "Almonds",
-          "Pistachios",
-          "Hippeas"
+          "Hippeas Cheddar ",
+          "Peanuts",
+          "Doritos Spicy Sweet Chili Chips",
+          "Kettle brand Maple bacon chips ",
+          "Cashews",
+          "(these are all vegan)"
         ],
         "header": "Favorite Salty Snacks"
       },
       {
         "items": [
-          "John Frusciante",
+          "John MF Frusciante",
+          "RHCP",
+          "Nutrition",
+          "Reading",
           "Paris",
-          "Nutrition"
+          "Organization / decor",
+          "David Goggins (staying hard)",
+          "Redbubble stickers of: MCID, RHCP, John, Frusciante, Veganism"
         ],
         "header": "Your Obsession"
       },
       {
-        "items": [
-          "Seinfeld"
-        ],
+        "items": [],
         "header": "Favorite Movies"
       },
       {
         "items": [
-          "(Used books are fine!)",
-          "How Not to Die by Michael Greger",
-          "How Not to Diet by Michael Greger",
-          "The Starch Solution by John and Mary McDougall",
-          "150 Screen-Free Activities for Kids",
-          "Acid for the Children by Flea"
+          "Thrive magazine",
+          "How Not to Diet Cookbook (Michael Greger)",
+          "The Pleasure Trap",
+          "Simply Wholesome Cookbook",
+          "Your Body in Balance (Neal Barnard)",
+          "To kill a mockingbird",
+          "Little Women",
+          "Animal Farm",
+          "War and Peace",
+          "The Picture of Dorian Gray",
+          "Great Expectations",
+          "Of Mice and Men",
+          "Emma"
         ],
         "header": "Book / Magazine Wishlist"
       },
       {
         "items": [
-          "Mechanical Pencils",
-          "Sharpies",
-          "Sticky Notes",
-          "Label Maker"
+          "File folder sticker labels",
+          "Mechanical pencils",
+          "Cute file folders",
+          "Electric pencil sharpener",
+          "Stamps"
         ],
         "header": "Favorite Desk Items"
       },
       {
         "items": [
-          "Sweate Pea from B & B",
-          "Cell Phone Holder",
-          "Travel-Size Tissues"
+          "Sweet pea car scents refill (Bath & Body)",
+          "Car wash gift certificate",
+          "Carseat covers"
         ],
         "header": "Favorite Car Accessories"
       },
       {
         "items": [
-          "Tofu Press Dish",
-          "Drying Mat"
+          "Funnel, small size",
+          "Bamboo steamer",
+          "Vegetable peeler (I need a good one; mine is crappy)",
+          "Wooden dish brush"
         ],
         "header": "Kitchen Gadget Wishlist"
       },
       {
         "items": [
-          "Press-on Nails",
-          "Lemon Essential Oils",
-          "\"Happy\" by Clinique",
-          "Lubriderm Lotion",
-          "Emery Boards"
+          "Sun Bum lip balm",
+          "Maybelline Baby Lips",
+          "”Happy” by Clinique",
+          "Emery boards -blk",
+          "Face masks"
         ],
         "header": "Favorite Personal Care Items"
       },
       {
         "items": [
-          "Light Pink",
-          "Turquoise",
-          "Taupe"
+          "Turquoise (not teal)",
+          "Pink",
+          "Red",
+          "Black",
+          "Silver & gold"
         ],
         "header": "Favorite Colors"
       },
       {
         "items": [
-          "Biscuits",
-          "Sahm's",
-          "Burger Fuel"
+          "Broadripple Brewpub",
+          "Golden Chef",
+          "Taco Bell",
+          "Starbucks"
         ],
         "header": "Favorite Restaurants"
       },
       {
         "items": [
-          "Chew Toys"
+          "Sophresh kitty litter (avail.@Petco)",
+          "Catnip",
+          "Scratching post",
+          "Chew treats for Ava",
+          "For birds: suet cakes"
         ],
         "header": "Ideas for Pets"
       },
@@ -220,8 +245,12 @@
       },
       {
         "items": [
-          "Highly Suspect CD's",
-          "Highly Suspect Merch"
+          "Eating pad",
+          "Bike helmet",
+          "Silk pillowcase",
+          "Candles",
+          "David Goggins t-shirt",
+          "Long-burn firelogs"
         ],
         "header": "Other Wishes"
       }
