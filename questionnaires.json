@@ -896,123 +896,151 @@
     "sections": [
       {
         "items": [
-          "Starbucks Almond Milk Mocha",
+          "Coke",
           "Red Bull",
-          "Zevia Soda",
-          "Fun Teas"
+          "Sparkling water",
+          "Pure leaf tea",
+          "Bai"
         ],
         "header": "Favorite Drinks"
       },
       {
         "items": [
-          "Reese's",
-          "Ghirardelli Chocolate Caramel",
-          "Sour Patch Kids"
+          "Reese’s",
+          "Dark chocolate"
         ],
-        "header": "Favorite Candy"
+        "header": "Favorite Candy &amp; Sweets"
       },
       {
         "items": [
-          "Hippeas",
-          "Veggie Straws",
-          "Bold Chex Mix",
-          "Popcorn"
+          "Flamin hot cheetos/chips",
+          "Bold chex mix",
+          "Hippeas (cheddar or sriracha)",
+          "Veggie straws"
         ],
         "header": "Favorite Salty Snacks"
       },
       {
         "items": [
-          "Steven Universe",
-          "Overwatch",
-          "Cats"
+          "Cats",
+          "The office",
+          "Comic strips"
         ],
         "header": "Your Obsession"
       },
       {
-        "items": [
-          "Les Miserables",
-          "The Office"
-        ],
+        "items": [],
         "header": "Favorite Movies"
       },
       {
         "items": [
-          "Graphic Design",
-          "Illustration Books"
+          "“Stepping stones” by Lucy Knisley",
+          "“Still just kidding” by Cassandra Calin",
+          "Flute sheet music",
+          "Books for anxiety management"
         ],
         "header": "Book / Magazine Wishlist"
       },
       {
         "items": [
-          "Fountain Pens",
-          "Tiny Fairy Lights",
-          "Headphones",
-          "Markers"
+          "Scotch Tape",
+          "Thin point sharpies",
+          "Scissors",
+          "Wet wipes",
+          "Stickers",
+          "Computer duster"
         ],
         "header": "Favorite Desk Items"
       },
       {
         "items": [
-          "Bath & Body Works Car Fresheners",
+          "Phone holder",
+          "Bath and body car scents",
+          "Hand sanitizer",
+          "Minty gum",
+          "Tissues",
           "Dreamcatcher"
         ],
         "header": "Favorite Car Accessories"
       },
       {
         "items": [
-          "Dish Drying Rack",
-          "Scrub Brush",
-          "Coffee Beans"
+          "Small ramekins or sauce holders",
+          "Rubber handle holder for cast iron",
+          "Dish towels",
+          "Scrub brush",
+          "Chopsticks",
+          "Rug stickers"
         ],
         "header": "Kitchen Gadget Wishlist"
       },
       {
         "items": [
-          "Emery Boards",
-          "Aveda Face Wash",
-          "Poo-pourri",
-          "Chapstick"
+          "Masks (disposable or reusable)",
+          "Hair ties (regular and scrunchy)",
+          "Barrettes",
+          "Chapstick",
+          "Eye drops",
+          "Essential oils",
+          "Body wash",
+          "Face wash",
+          "Lady Speed Stick Deo",
+          "Tweezers"
         ],
         "header": "Favorite Personal Care Items"
       },
       {
         "items": [
-          "Pastel Pink",
-          "Blue",
-          "Green",
-          "Yellow"
+          "Pastel pink",
+          "Lavender",
+          "Rainbow"
         ],
         "header": "Favorite Colors"
       },
       {
         "items": [
+          "Doordash",
+          "McAllisters",
+          "Chick fil a",
           "Taco Bell",
-          "McAlisters",
-          "Perk Up Cafe",
-          "Fresh Thyme"
+          "Kolache Factory"
         ],
         "header": "Favorite Restaurants"
       },
       {
         "items": [
-          "Corkboard for Terrarium",
-          "Pet Supplies Plus Gift Card"
+          "Lint roller",
+          "Catnip toys",
+          "Temptations treats",
+          "Big scratching post"
         ],
         "header": "Ideas for Pets"
       },
       {
         "items": [
-          "Shirt - M",
-          "Pants - 6",
-          "Shoe - 8"
+          "Shirt - Small",
+          "Pants - 4 or 5",
+          "Shoe - 7 ½ or 8"
         ],
         "header": "Clothing Sizes"
       },
       {
         "items": [
-          "Hair Scrunchies",
-          "Socks",
-          "Hair Clips"
+          "Candles (I like vanilla/pumpkin scents)",
+          "Fun socks",
+          "Travel cup with straw",
+          "Throw pillows",
+          "Gnat traps",
+          "Pet water fountain",
+          "Lint & pilling remover",
+          "Soap dispenser",
+          "Cleaning wipes",
+          "iPhone 6 case",
+          "Small fairy lights",
+          "Handheld vacuum",
+          "iPad Pro 10 inch screen cover",
+          "Earrings",
+          "Nail polish"
         ],
         "header": "Other Wishes"
       }
