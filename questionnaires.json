@@ -1168,61 +1168,62 @@
     "sections": [
       {
         "items": [
-          "Red Bull / Energy Drinks",
-          "Craft Soda",
-          "Craft Beer",
-          "Gin",
-          "Whiskey",
-          "Loose Leaf Tea",
-          "Coffee Beans"
+          "Flavored sparkling water",
+          "Sugar-free energy drinks",
+          "Tea bags",
+          "Coffee beans",
+          "Vodka",
+          "Gin"
         ],
         "header": "Favorite Drinks"
       },
       {
         "items": [
-          "Licorice",
-          "Gummies",
-          "Anything Weird or Different",
-          "Dark Chocolate"
+          "Pür gum"
         ],
-        "header": "Favorite Candy"
+        "header": "Favorite Candy &amp; Sweets"
       },
       {
         "items": [
-          "Chex Mix",
+          "Pickles",
           "Jerky",
-          "Cheese",
-          "Nuts"
+          "Pork rinds",
+          "\"Epic\" brand snacks",
+          "Walnuts",
+          "Cashews",
+          "Pistachios"
         ],
         "header": "Favorite Salty Snacks"
       },
       {
         "items": [
-          "Computer Programming"
+          "Computer programming"
         ],
         "header": "Your Obsession"
       },
       {
-        "items": [],
+        "items": [
+          "Groundhog day",
+          "Twin Peaks"
+        ],
         "header": "Favorite Movies"
       },
       {
         "items": [
-          "Terry Pratchett Books"
+          "The Structure &amp; Interpretation of Computer Programs",
+          "Godel, Escher, Bach: an Eternal Golden Braid"
         ],
         "header": "Book / Magazine Wishlist"
       },
       {
         "items": [
-          "Sharpies",
-          "Post-it Notes",
-          "Pens"
+          "Pad of paper"
         ],
         "header": "Favorite Desk Items"
       },
       {
         "items": [
-          "Usb-C Car Charger"
+          "Travel size hand sanitizer"
         ],
         "header": "Favorite Car Accessories"
       },
@@ -1231,30 +1232,32 @@
         "header": "Kitchen Gadget Wishlist"
       },
       {
-        "items": [],
+        "items": [
+          "Incense",
+          "Candles"
+        ],
         "header": "Favorite Personal Care Items"
       },
       {
         "items": [
           "Blue",
-          "Pink",
-          "Red (Burgundy)",
-          "White",
-          "Black"
+          "Black",
+          "Gray"
         ],
         "header": "Favorite Colors"
       },
       {
         "items": [
-          "Burgerfuel",
-          "Taco Bell"
+          "Chipotle",
+          "Five Guys",
+          "Cunningham Restaurants"
         ],
         "header": "Favorite Restaurants"
       },
       {
         "items": [
-          "Little Chewies",
-          "Rope Toy"
+          "Busy bone (tiny)",
+          "Nudges"
         ],
         "header": "Ideas for Pets"
       },
@@ -1263,7 +1266,10 @@
         "header": "Clothing Sizes"
       },
       {
-        "items": [],
+        "items": [
+          "Playstation gift cards",
+          "Nintendo gift cards"
+        ],
         "header": "Other Wishes"
       }
     ]
@@ -1273,100 +1279,107 @@
     "sections": [
       {
         "items": [
-          "Tea",
-          "Coffee",
-          "La Croix"
+          "Sparkling water (La Croix, Topo Chico, generic brands)",
+          "Tea (green, assam)",
+          "Coffee (lighter roasts, whole bean)"
         ],
         "header": "Favorite Drinks"
       },
       {
         "items": [
-          "Gummy Worms",
-          "Werther's Caramels",
-          "Peach Rings"
+          "No thanks! :)"
         ],
-        "header": "Favorite Candy"
+        "header": "Favorite Candy &amp; Sweets"
       },
       {
         "items": [
-          "Pretzels",
-          "Interestingly Flavored Chips",
-          "Veggie Chips"
+          "Pickles",
+          "Kimchi",
+          "Walnuts",
+          "Pistaschios",
+          "Cashews",
+          "\"Epic\" brand snacks"
         ],
         "header": "Favorite Salty Snacks"
       },
       {
         "items": [
-          "Crystals",
-          "Tarot",
-          "Candles"
+          "Plants! Especially cacti.",
+          "Also, getting into working out."
         ],
         "header": "Your Obsession"
       },
       {
         "items": [
-          "The VVitch",
-          "Scary Movie 2",
-          "Kill bill",
-          "Krampus"
+          "Spirited Away",
+          "Kill Bill",
+          "Day of the Dead (1985)",
+          "The Greasy Strangler",
+          "The Silence of the Lambs",
+          "TV: Twin Peaks",
+          "TV: Good Eats",
+          "TV: Bizarre Foods"
         ],
         "header": "Favorite Movies"
       },
       {
         "items": [
-          "Cookbooks",
-          "Food Magazines",
-          "Gay Lifestyle Magazines"
+          "Tartine; a Classic Revisited by Elisabeth Prueitt and Chad Robertson",
+          "Tartine Bread by Chad Robertson",
+          "Comida Mexicana by Rosa Cienfuegos"
         ],
         "header": "Book / Magazine Wishlist"
       },
       {
         "items": [
-          "Incense",
-          "Candles"
+          "Rubber bands",
+          "Paper pads"
         ],
         "header": "Favorite Desk Items"
       },
       {
         "items": [
-          "Car Smells"
+          "Air fresheners (the kind you clip in to the vents)"
         ],
         "header": "Favorite Car Accessories"
       },
       {
         "items": [
-          "Hand Mixer",
-          "One Pot",
-          "Muffin Tin",
-          "Cheese Board"
+          "Ceramic mugs!"
         ],
         "header": "Kitchen Gadget Wishlist"
       },
       {
-        "items": [],
+        "items": [
+          "Incense (cones)",
+          "Candles",
+          "Lint rollers"
+        ],
         "header": "Favorite Personal Care Items"
       },
       {
         "items": [
           "Pink",
           "Green",
-          "Blue",
           "Red",
-          "Black"
+          "Brown",
+          "Blue",
+          "White"
         ],
         "header": "Favorite Colors"
       },
       {
         "items": [
           "Chipotle",
-          "Taco Bell",
-          "Chinese Takeout"
+          "Five Guys",
+          "Cunningham restaurants"
         ],
         "header": "Favorite Restaurants"
       },
       {
         "items": [
-          "Small Treats"
+          "Small squeaky toys",
+          "Small-sized chew treats"
         ],
         "header": "Ideas for Pets"
       },
@@ -1375,7 +1388,10 @@
         "header": "Clothing Sizes"
       },
       {
-        "items": [],
+        "items": [
+          "Playstation gift cards",
+          "Nintendo E-shop gift cards"
+        ],
         "header": "Other Wishes"
       }
     ]
