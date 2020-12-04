@@ -10,7 +10,7 @@ getNames = (name <$>)
 colors :: [String]
 colors = cycle [ "dark-red"
                , "dark-green"
-               , "navy"
+               , "light-purple"
                , "gold"
                , "purple"
                , "orange"
@@ -21,7 +21,7 @@ lowercase :: String -> String
 lowercase = (toLower <$>)
 
 indexHeading :: String
-indexHeading = "<p class=\"f1 dark-red b\">Christmas Family Questionnaire</p>"
+indexHeading = "<p class=\"f1 dark-red b\">Christmas Family Questionnaire 2020!</p>"
 
 genIndex :: [String] -> String
 genIndex = foldr eachLink indexHeading . zip colors
