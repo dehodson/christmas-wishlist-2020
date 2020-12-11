@@ -1,5 +1,114 @@
 [
   {
+    "name": "Maggie",
+    "sections": [
+      {
+        "items": [
+          "Red cream soda",
+          "Fruit punch"
+        ],
+        "header": "Favorite Drinks"
+      },
+      {
+        "items": [
+          "Anything peanut butter and chocolate",
+          "Peach rings",
+          "Gummy worms",
+          "Airhead extremes"
+        ],
+        "header": "Favorite Candy &amp; Sweets"
+      },
+      {
+        "items": [
+          "Kettle cooked salt and vinegar chips"
+        ],
+        "header": "Favorite Salty Snacks"
+      },
+      {
+        "items": [
+          "Music",
+          "Horror",
+          "Animals (especially reptiles)"
+        ],
+        "header": "Your Obsession"
+      },
+      {
+        "items": [
+          "Donnie Darko",
+          "The Karate Kid series",
+          "American Psycho",
+          "The Conjuring",
+          "Call Me By Your Name",
+          "Coraline",
+          "Saw series",
+          "Any Quentin Tarantino movie"
+        ],
+        "header": "Favorite Movies"
+      },
+      {
+        "items": [
+          "A Clockwork Orange",
+          "Coraline"
+        ],
+        "header": "Book / Magazine Wishlist"
+      },
+      {
+        "items": [],
+        "header": "Favorite Desk Items"
+      },
+      {
+        "items": [
+          "Yes, but nothing in particular"
+        ],
+        "header": "Favorite Car Accessories"
+      },
+      {
+        "items": [],
+        "header": "Kitchen Gadget Wishlist"
+      },
+      {
+        "items": [
+          "Body scrub",
+          "Body spray",
+          "Body wash",
+          "Lipgloss"
+        ],
+        "header": "Favorite Personal Care Items"
+      },
+      {
+        "items": [
+          "Black",
+          "Red"
+        ],
+        "header": "Favorite Colors"
+      },
+      {
+        "items": [
+          "Outback Steakhouse"
+        ],
+        "header": "Favorite Restaurants"
+      },
+      {
+        "items": [
+          "Catnip cat toys"
+        ],
+        "header": "Ideas for Pets"
+      },
+      {
+        "items": [],
+        "header": "Clothing Sizes"
+      },
+      {
+        "items": [
+          "Incense",
+          "Black lipstick",
+          "Fishnets / Cool tights"
+        ],
+        "header": "Other Wishes"
+      }
+    ]
+  },
+  {
     "name": "Kristen",
     "sections": [
       {
